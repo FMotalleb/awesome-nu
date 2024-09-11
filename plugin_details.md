@@ -13,8 +13,8 @@
 |[nu_plugin_dns](https://github.com/dead10ck/nu_plugin_dns)|3.0.4-alpha.1|A DNS utility for nushell|✅0.97.1|✅0.97.1|
 |[nu_plugin_dpkgtable](https://github.com/pdenapo/nu_plugin_dpkgtable)|0.1.0||⚠️0.91.0|⚠️0.91.0|
 |[nu_plugin_emoji](https://github.com/fdncred/nu_plugin_emoji)|0.5.0|a nushell plugin called emoji|✅0.97.2|✅0.97.2|
-|[nu_plugin_explore](https://github.com/amtoine/nu_plugin_explore)|0.96.0|A fast structured data explorer for Nushell.|⚠️0.96.0|⚠️0.96.0|
-|[nu_plugin_file](https://github.com/fdncred/nu_plugin_file)|0.6.0|a nushell plugin called file|✅0.97.2|✅0.97.2|
+|[nu_plugin_explore](https://github.com/amtoine/nu_plugin_explore)|0.97.0|A fast structured data explorer for Nushell.|✅0.97.0|✅0.97.0|
+|[nu_plugin_file](https://github.com/fdncred/nu_plugin_file)|0.7.0|a nushell plugin called file|✅0.97.2|✅0.97.2|
 |[nu_plugin_formats](https://github.com/nushell/nushell/tree/main/crates/nu_plugin_formats)|0.97.2|An I/O plugin for a set of file formats for Nushell|✅0.97.2|✅0.97.2|
 |[nu_plugin_from_beancount](https://github.com/jcornaz/nu_plugin_from_beancount)|2.0.0|A nushell extension to load a beancount file into nu structured data|⚠️0.84.0|⚠️0.84.0|
 |[nu_plugin_from_bencode](https://github.com/bluk/nu_plugin_from_bencode)|0.11.0|A Nushell plugin to convert bencode data into Nu structured values.|⚠️0.93|⚠️0.93|
@@ -26,11 +26,11 @@
 |[nu_plugin_hmac](https://github.com/fnuttens/nu_plugin_hmac)|0.9.0|A HMAC sealing plugin for Nushell|✅0.97.1|✅0.97.1|
 |[nu_plugin_image](https://github.com/FMotalleb/nu_plugin_image)|0.5.4|A nushell plugin to open png images in the shell and save ansi string as images (like tables or ...)|✅0.97.1|✅0.97.1|
 |[nu_plugin_inc](https://github.com/nushell/nushell/tree/main/crates/nu_plugin_inc)|0.97.2|A version incrementer plugin for Nushell|✅0.97.2|✅0.97.2|
-|[nu_plugin_json_path](https://github.com/fdncred/nu_plugin_json_path)|0.5.0|a nushell plugin created to parse json files using jsonpath|✅0.97.2|✅0.97.2|
+|[nu_plugin_json_path](https://github.com/fdncred/nu_plugin_json_path)|0.6.0|a nushell plugin created to parse json files using jsonpath|✅0.97.2|✅0.97.2|
 |[nu_plugin_kdl](https://github.com/amtoine/nu_plugin_kdl)|0.83.2|Add support for the KDL data format to Nushell.|⚠️0.83.2|⚠️0.83.2|
 |[nu_plugin_msgpack](https://github.com/hulthe/nu_plugin_msgpack)|0.90.1|Commands to convert nushell data to and from MsgPack|⚠️0.90.1|⚠️0.90.1|
 |[nu_plugin_net](https://github.com/fennewald/nu_plugin_net)|1.7.0|A nushell plugin for enumerating network interfaces in a platform-agnostic way|✅0.97.1|✅0.97.1|
-|[nu_plugin_parquet](https://github.com/fdncred/nu_plugin_from_parquet)|0.6.0|nu plugin to add parquet support|✅0.97.2|✅0.97.2|
+|[nu_plugin_parquet](https://github.com/fdncred/nu_plugin_from_parquet)|0.7.0|nu plugin to add parquet support|✅0.97.2|✅0.97.2|
 |[nu_plugin_periodic_table](https://github.com/JosephTLyons/nu_plugin_periodic_table)|0.2.9|A periodic table of elements plugin for Nushell|✅0.97.1|✅0.97.1|
 |[nu_plugin_plist](https://github.com/ayax79/nu_plugin_plist)|0.96.0|Plist parsing for nushell|⚠️0.96|⚠️0.96|
 |[nu_plugin_plot](https://github.com/Euphrasiologist/nu_plugin_plot)|0.91.1|Plot graphs in nushell using numerical lists.|⚠️0.92.2|⚠️0.92.2|
@@ -40,12 +40,12 @@
 |[nu_plugin_prometheus](https://github.com/drbrain/nu_plugin_prometheus)|0.4.0|A nushell plugin for querying prometheus|⚠️0.96.1|⚠️0.96.1|
 |[nu_plugin_qr_maker](https://github.com/FMotalleb/nu_plugin_qr_maker)|1.1.0|A nushell plugin to create qr code in terminal|⚠️0.94.0|⚠️0.94.0|
 |[nu_plugin_query](https://github.com/nushell/nushell/tree/main/crates/nu_plugin_query)|0.97.2|A Nushell plugin to query JSON, XML, and various web data|✅0.97.2|✅0.97.2|
-|[nu_plugin_regex](https://github.com/fdncred/nu_plugin_regex)|0.5.0|nu plugin to search text with regex|✅0.97.2|✅0.97.2|
+|[nu_plugin_regex](https://github.com/fdncred/nu_plugin_regex)|0.6.0|nu plugin to search text with regex|✅0.97.2|✅0.97.2|
 |[nu_plugin_semver](https://github.com/abusch/nu_plugin_semver)|0.7.0|A nushell plugin for dealing with SemVer versions|✅0.97.1|✅0.97.1|
 |[nu_plugin_skim](https://github.com/idanarye/nu_plugin_skim)|0.5.0|An `sk` command that can handle Nushell's structured data|✅0.97|✅0.97|
-|[nu_plugin_str_similarity](https://github.com/fdncred/nu_plugin_str_similarity)|0.5.0|a nushell plugin called str_similarity|✅0.97.2|✅0.97.2|
+|[nu_plugin_str_similarity](https://github.com/fdncred/nu_plugin_str_similarity)|0.6.0|a nushell plugin called str_similarity|✅0.97.2|✅0.97.2|
 |[nu_plugin_template](https://github.com/fdncred/nu_plugin_template)|0.0|A `cargo-generate` template for making it easier to create nushell plugins.|⛔0.0|⛔0.0|
 |[nu_plugin_ulid](https://github.com/lizclipse/nu_plugin_ulid)|0.6.0|A nushell plugin that adds various ulid commands|⚠️0.96.0|⚠️0.96.0|
 |[nu_plugin_units](https://github.com/JosephTLyons/nu_plugin_units)|0.1.2|A Nushell plugin for easily converting between common units|✅0.97.1|✅0.97.1|
 
-last update at `2024-09-04 03:09:36 +00:00`
+last update at `2024-09-11 03:09:48 +00:00`
