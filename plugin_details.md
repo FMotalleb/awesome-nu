@@ -42,10 +42,10 @@
 |[nu_plugin_query](https://github.com/nushell/nushell/tree/main/crates/nu_plugin_query)|0.98.1|A Nushell plugin to query JSON, XML, and various web data|✅0.98.1|✅0.98.1|
 |[nu_plugin_regex](https://github.com/fdncred/nu_plugin_regex)|0.7.0|nu plugin to search text with regex|✅0.98.0|✅0.98.0|
 |[nu_plugin_semver](https://github.com/abusch/nu_plugin_semver)|0.8.0|A nushell plugin for dealing with SemVer versions|✅0.98.0|✅0.98.0|
-|[nu_plugin_skim](https://github.com/idanarye/nu_plugin_skim)|0.6.0|An `sk` command that can handle Nushell's structured data|✅0.98|✅0.98|
+|[nu_plugin_skim](https://github.com/idanarye/nu_plugin_skim)|0.7.0|An `sk` command that can handle Nushell's structured data|✅0.98|✅0.98|
 |[nu_plugin_str_similarity](https://github.com/fdncred/nu_plugin_str_similarity)|0.7.0|a nushell plugin called str_similarity|✅0.98.0|✅0.98.0|
 |[nu_plugin_template](https://github.com/fdncred/nu_plugin_template)|0.0|A `cargo-generate` template for making it easier to create nushell plugins.|⛔0.0|⛔0.0|
 |[nu_plugin_ulid](https://github.com/lizclipse/nu_plugin_ulid)|0.7.0|A nushell plugin that adds various ulid commands|✅0.98.0|✅0.98.0|
 |[nu_plugin_units](https://github.com/JosephTLyons/nu_plugin_units)|0.1.2|A Nushell plugin for easily converting between common units|⚠️0.97.1|⚠️0.97.1|
 
-last update at `2024-09-25 03:17:08 +00:00`
+last update at `2024-10-02 03:14:57 +00:00`
