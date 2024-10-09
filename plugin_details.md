@@ -29,7 +29,7 @@
 |[nu_plugin_json_path](https://github.com/fdncred/nu_plugin_json_path)|0.7.0|a nushell plugin created to parse json files using jsonpath|✅0.98.0|✅0.98.0|
 |[nu_plugin_kdl](https://github.com/amtoine/nu_plugin_kdl)|0.83.2|Add support for the KDL data format to Nushell.|⚠️0.83.2|⚠️0.83.2|
 |[nu_plugin_msgpack](https://github.com/hulthe/nu_plugin_msgpack)|0.90.1|Commands to convert nushell data to and from MsgPack|⚠️0.90.1|⚠️0.90.1|
-|[nu_plugin_net](https://github.com/fennewald/nu_plugin_net)|1.7.0|A nushell plugin for enumerating network interfaces in a platform-agnostic way|⚠️0.97.1|⚠️0.97.1|
+|[nu_plugin_net](https://github.com/fennewald/nu_plugin_net)|1.8.0|A nushell plugin for enumerating network interfaces in a platform-agnostic way|✅0.98|✅0.98|
 |[nu_plugin_parquet](https://github.com/fdncred/nu_plugin_from_parquet)|0.8.0|nu plugin to add parquet support|✅0.98.0|✅0.98.0|
 |[nu_plugin_periodic_table](https://github.com/JosephTLyons/nu_plugin_periodic_table)|0.2.9|A periodic table of elements plugin for Nushell|⚠️0.97.1|⚠️0.97.1|
 |[nu_plugin_plist](https://github.com/ayax79/nu_plugin_plist)|0.96.0|Plist parsing for nushell|⚠️0.96|⚠️0.96|
@@ -48,4 +48,4 @@
 |[nu_plugin_ulid](https://github.com/lizclipse/nu_plugin_ulid)|0.7.0|A nushell plugin that adds various ulid commands|✅0.98.0|✅0.98.0|
 |[nu_plugin_units](https://github.com/JosephTLyons/nu_plugin_units)|0.1.2|A Nushell plugin for easily converting between common units|⚠️0.97.1|⚠️0.97.1|
 
-last update at `2024-10-02 03:14:57 +00:00`
+last update at `2024-10-09 03:15:27 +00:00`
