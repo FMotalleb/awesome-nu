@@ -5,7 +5,7 @@
 |[nu_plugin_bash_env](https://github.com/tesujimath/nu_plugin_bash_env)|0.10.0|A Bash environment plugin for Nushell.|⚠️0.94.1|⚠️0.94.1|
 |[nu_plugin_bin_reader](https://github.com/WindSoilder/nu_plugin_bin_reader)|0.0.0|A high level, general binary data reader.|⛔0.0|⛔0.0|
 |[nu_plugin_bio](https://github.com/Euphrasiologist/nu_plugin_bio)|0.85.0|Parse and manipulate common bioinformatic formats in nushell.|⚠️0.85.0|⚠️0.85.0|
-|[nu_plugin_clipboard](https://github.com/FMotalleb/nu_plugin_clipboard)|0.99.0|A nushell plugin to copy text into clipboard or get text from it.|✅0.99.0|✅0.99.0|
+|[nu_plugin_clipboard](https://github.com/FMotalleb/nu_plugin_clipboard)|0.99.1|A nushell plugin to copy text into clipboard or get text from it.|✅0.99.1|✅0.99.1|
 |[nu_plugin_dbus](https://github.com/devyn/nu_plugin_dbus)|0.12.0|Nushell plugin for communicating with D-Bus|✅0.99.0|✅0.99.0|
 |[nu_plugin_dcm](https://github.com/realcundo/nu_plugin_dcm)|0.1.8|A nushell plugin to parse Dicom files|⚠️0.68|⚠️0.68|
 |[nu_plugin_desktop_notifications](https://github.com/FMotalleb/nu_plugin_desktop_notifications)|1.2.5|A nushell plugin to send desktop notifications|✅0.99.0|✅0.99.0|
@@ -33,7 +33,7 @@
 |[nu_plugin_parquet](https://github.com/fdncred/nu_plugin_from_parquet)|0.9.0|nu plugin to add parquet support|✅0.99.1|✅0.99.1|
 |[nu_plugin_periodic_table](https://github.com/JosephTLyons/nu_plugin_periodic_table)|0.2.9|A periodic table of elements plugin for Nushell|⚠️0.97.1|⚠️0.97.1|
 |[nu_plugin_plist](https://github.com/ayax79/nu_plugin_plist)|0.96.0|Plist parsing for nushell|⚠️0.96|⚠️0.96|
-|[nu_plugin_plot](https://github.com/Euphrasiologist/nu_plugin_plot)|0.91.1|Plot graphs in nushell using numerical lists.|⚠️0.98|⚠️0.98|
+|[nu_plugin_plot](https://github.com/Euphrasiologist/nu_plugin_plot)|0.91.1|Plot graphs in nushell using numerical lists.|✅0.99.1|✅0.99.1|
 |[nu_plugin_pnet](https://github.com/fdncred/nu_plugin_pnet)|1.7.0|A nushell plugin for enumerating network interfaces in a platform-agnostic way|⚠️0.97.2|⚠️0.97.2|
 |[nu_plugin_port_list](https://github.com/FMotalleb/nu_plugin_port_list)|1.4.4|A nushell plugin to list all active connections|✅0.99.0|✅0.99.0|
 |[nu_plugin_port_scan](https://github.com/FMotalleb/nu_plugin_port_scan)|1.2.5|A nushell plugin for scanning ports on a target|✅0.99.0|✅0.99.0|
@@ -48,4 +48,4 @@
 |[nu_plugin_ulid](https://github.com/lizclipse/nu_plugin_ulid)|0.8.0|A nushell plugin that adds various ulid commands|✅0.99.0|✅0.99.0|
 |[nu_plugin_units](https://github.com/JosephTLyons/nu_plugin_units)|0.1.2|A Nushell plugin for easily converting between common units|⚠️0.97.1|⚠️0.97.1|
 
-last update at `2024-10-23 03:15:50 +00:00`
+last update at `2024-10-30 03:17:00 +00:00`
