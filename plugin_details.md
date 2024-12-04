@@ -22,7 +22,7 @@
 |[nu_plugin_from_sse](https://github.com/cablehead/nu_plugin_from_sse)|0.99.0|Nushell plugin to convert a HTTP server sent event stream to structured data|⚠️0.99.1|⚠️0.99.1|
 |[nu_plugin_gstat](https://github.com/nushell/nushell/tree/main/crates/nu_plugin_gstat)|0.100.1|A git status plugin for Nushell|✅0.100.1|✅0.100.1|
 |[nu_plugin_hcl](https://github.com/Yethal/nu_plugin_hcl)|0.100.0|A nushell plugin for parsing Hashicorp Configuration Language file format|✅0.100.0|✅0.100.0|
-|[nu_plugin_highlight](https://github.com/cptpiepmatz/nu-plugin-highlight)|1.3.3+0.100.0|A nushell plugin for syntax highlighting|✅0.100.0|✅0.100.0|
+|[nu_plugin_highlight](https://github.com/cptpiepmatz/nu-plugin-highlight)|1.4.1+0.100.0|A nushell plugin for syntax highlighting|✅0.100.0|✅0.100.0|
 |[nu_plugin_hmac](https://github.com/fnuttens/nu_plugin_hmac)|0.12.0|A HMAC sealing plugin for Nushell|✅0.100.0|✅0.100.0|
 |[nu_plugin_image](https://github.com/FMotalleb/nu_plugin_image)|0.5.6|A nushell plugin to open png images in the shell and save ansi string as images (like tables or ...)|⚠️0.99.0|⚠️0.99.0|
 |[nu_plugin_inc](https://github.com/nushell/nushell/tree/main/crates/nu_plugin_inc)|0.100.1|A version incrementer plugin for Nushell|✅0.100.1|✅0.100.1|
@@ -48,4 +48,4 @@
 |[nu_plugin_ulid](https://github.com/lizclipse/nu_plugin_ulid)|0.9.0|A nushell plugin that adds various ulid commands|✅0.100.0|✅0.100.0|
 |[nu_plugin_units](https://github.com/JosephTLyons/nu_plugin_units)|0.1.3|A Nushell plugin for easily converting between common units|⚠️0.99.1|⚠️0.99.1|
 
-last update at `2024-11-27 03:26:27 +00:00`
+last update at `2024-12-04 03:28:31 +00:00`
