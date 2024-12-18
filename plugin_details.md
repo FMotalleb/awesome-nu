@@ -5,7 +5,7 @@
 |[nu_plugin_bash_env](https://github.com/tesujimath/nu_plugin_bash_env)|0.10.0|A Bash environment plugin for Nushell.|⚠️0.94.1|⚠️0.94.1|
 |[nu_plugin_bin_reader](https://github.com/WindSoilder/nu_plugin_bin_reader)|0.0.0|A high level, general binary data reader.|⛔0.0|⛔0.0|
 |[nu_plugin_bio](https://github.com/Euphrasiologist/nu_plugin_bio)|0.85.0|Parse and manipulate common bioinformatic formats in nushell.|⚠️0.85.0|⚠️0.85.0|
-|[nu_plugin_clipboard](https://github.com/FMotalleb/nu_plugin_clipboard)|0.100.0|A nushell plugin to copy text into clipboard or get text from it.|✅0.100.0|✅0.100.0|
+|[nu_plugin_clipboard](https://github.com/FMotalleb/nu_plugin_clipboard)|0.100.1|A nushell plugin to copy text into clipboard or get text from it.|✅0.100.0|✅0.100.0|
 |[nu_plugin_dbus](https://github.com/devyn/nu_plugin_dbus)|0.13.0|Nushell plugin for communicating with D-Bus|✅0.100.0|✅0.100.0|
 |[nu_plugin_dcm](https://github.com/realcundo/nu_plugin_dcm)|0.1.8|A nushell plugin to parse Dicom files|⚠️0.68|⚠️0.68|
 |[nu_plugin_desktop_notifications](https://github.com/FMotalleb/nu_plugin_desktop_notifications)|1.2.6|A nushell plugin to send desktop notifications|✅0.100.0|✅0.100.0|
@@ -48,4 +48,4 @@
 |[nu_plugin_ulid](https://github.com/lizclipse/nu_plugin_ulid)|0.9.0|A nushell plugin that adds various ulid commands|✅0.100.0|✅0.100.0|
 |[nu_plugin_units](https://github.com/JosephTLyons/nu_plugin_units)|0.1.3|A Nushell plugin for easily converting between common units|⚠️0.99.1|⚠️0.99.1|
 
-last update at `2024-12-11 03:27:55 +00:00`
+last update at `2024-12-18 03:21:47 +00:00`
