@@ -62,4 +62,4 @@
 |[nu_plugin_vec](https://github.com/PhotonBursted/nu_plugin_vec)|1.1.3|A Nushell plugin implementing vector operations|✅0.101.0|✅0.101.0|
 |[nu_plugin_ws](https://github.com/alex-kattathra-johnson/nu_plugin_ws)|0.2.2|A Nushell plugin for easily streaming output from websocket endpoints|⚠️0.100.0|⚠️0.100.0|
 
-last update at `2025-01-15 03:11:06 +00:00`
+last update at `2025-01-22 03:13:08 +00:00`
